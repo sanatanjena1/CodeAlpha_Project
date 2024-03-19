@@ -78,3 +78,10 @@ p {
 	padding-top: 7%;
 	font-size: larger;
 }
+.if{
+    position: fixed;
+    top: 400px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
